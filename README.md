@@ -6,7 +6,7 @@ It is only a mock app to demonstrate my knowledge and skill in building CLI app,
 
 ## Installation
 
-First create a virtual environment using venv module, and activate it. Please note that the venv activation command below is for Linux, if you are using different OS please check the venv module documentation.
+First make sure that you have Python version 3.10 or newer in your system. Then create a virtual environment using venv module, and activate it. Please note that the venv activation command below is for Linux, if you are using different OS please check the venv module documentation.
 
 ```bash
 python -m venv venv
