@@ -13,9 +13,10 @@ python -m venv venv
 source venv/bin/activate
 ```
 
-Then clone this project to your local directory, in the top level directory of this project install this app using `pip` in editable mode.
+Then clone this project to your local directory, go to the top level directory of this project install this app using `pip` in editable mode.
 
 ```bash
+cd sales-typer-sqlite
 pip install -e .
 ```
 
